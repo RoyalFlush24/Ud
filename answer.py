@@ -48,7 +48,7 @@ def question1(s, t):
         else:
             char_counts_t[i] = 1
 
-    # store character counts of first len(t) charactersof s
+    # store character counts of first len(t) characters of s
     
     char_counts_s = {}
     for i in xrange(len(t)):
