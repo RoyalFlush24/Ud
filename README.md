@@ -1,18 +1,21 @@
 # Udacity Technical Interview
 
-My solutions to the Udacity Technical Interview Practice problems
+In this README file I'll ask the questions and the solutions will be posted with two separate files one python and the other a txt file that will be explaining the codes.
 
 ## Question 1
+
 Given two strings `s` and `t`, determine whether some anagram of `t` is a 
 substring of `s`. For example: if `s = "udacity"` and `t = "ad"`, then the 
 function returns `True`. Your function definition should look like: 
 `question1(s, t)` and return a boolean `True` or `False`.
 
 ## Question 2
+
 Given a string `a`, find the longest palindromic substring contained in `a`. 
 Your function definition should look like `question2(a)`, and return a string.
 
 ## Question 3
+
 Given an undirected graph G, find the minimum spanning tree within G. A minimum spanning tree connects all vertices in a graph with the smallest possible total weight of edges. Your function should take in and return an adjacency list structured like this:
 ~~~
 {'A': [('B', 2)],
@@ -22,6 +25,7 @@ Given an undirected graph G, find the minimum spanning tree within G. A minimum 
 Vertices are represented as unique strings. The function definition should be `question3(G)`
 
 ## Question 4
+
 Find the least common ancestor between two nodes on a binary search tree. 
 The least common ancestor is the farthest node from the root that is an ancestor 
 of both nodes. For example, the root is a common ancestor of all nodes on the tree, 
@@ -46,6 +50,7 @@ question4([[0, 1, 0, 0, 0],
 and the answer would be `3`.
 
 ## Question 5
+
 Find the element in a singly linked list that's m elements from the end. 
 For example, if a linked list has 5 elements, the 3rd element from the end is 
 the 3rd element. The function definition should look like `question5(ll, m)`, 
