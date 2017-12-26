@@ -34,7 +34,7 @@ def question1(s, t):
     if len(s) == 0 or len(s) < len(t):
         return False
 
-    # if t is empty, the answer should alwasy be True
+    # if t is empty, the answer should always be True
     
     if len(t) == 0:
         return True
