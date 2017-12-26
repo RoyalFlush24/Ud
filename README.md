@@ -1,6 +1,6 @@
 # Udacity Technical Interview
 
-In this README file I'll ask the questions and the solutions will be posted with two separate files one python and the other a txt file that will be explaining the codes.
+In this README file I'll ask the questions and the solutions will be posted as a python file.
 
 ## Question 1
 
