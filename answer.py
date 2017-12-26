@@ -29,7 +29,7 @@ def question1(s, t):
     if type(t) != str:
         return "Error: t not string!"
 
-    # make sure there are s has at least as much characters as t
+    # make sure there are as much s characters as there are t
     
     if len(s) == 0 or len(s) < len(t):
         return False
